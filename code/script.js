@@ -15,11 +15,11 @@ const foodChoice = prompt(
 );
 
 if (foodChoice === "1") {
-  alert(`You picked Pizza! Great choise!`);
+  alert(`You picked Pizza! Great choice!`);
 } else if (foodChoice === "2") {
-  alert(`You picked Pasta! Great choise!`);
+  alert(`You picked Pasta! Great choice!`);
 } else {
-  alert(`You picked Salad! Great choise!`);
+  alert(`You picked Salad! Great choice!`);
 }
 
 let foodName = "";
