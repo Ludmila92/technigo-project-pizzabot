@@ -1,12 +1,27 @@
 # Pizzabot
 
-Replace this readme with your own information about the project. You can include things like:
+A simple PizzaBot built with JavaScript.
+The user can order food throug series of browsers promts and alerts
 
-- Brief description of the assignment
-- How you approached the task, what tools and techniques you used, and how you planned it
-- If you had more time, what would be next?
+## How it works
 
-## View it live
+- Step 1 User enters name
+- Step 2 User picks a food type (Pizza, Pasta, Salad)
+- Step 3: User picks a subtype
+- Step 4: User enters their age (child/adult pricing)
+- Step 5: User confirms the order
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
-https://project-pizzabot.baraulja92.workers.dev/
+## Tech used
+
+- HTML
+- JavaScript (variables, conditionals, prompt/alert/confirm)
+
+## Live demo
+
+[View project](https://project-pizzabot.baraulja92.workers.dev/)
+
+## What I would like to do next
+
+- Add input validation
+- Style the page with CSS
+- Replace alerts with a custom UI
