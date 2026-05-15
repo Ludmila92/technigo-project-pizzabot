@@ -7,4 +7,6 @@ Replace this readme with your own information about the project. You can include
 - If you had more time, what would be next?
 
 ## View it live
+
 Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://project-pizzabot.baraulja92.workers.dev/
