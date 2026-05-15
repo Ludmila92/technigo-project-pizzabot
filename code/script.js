@@ -76,4 +76,16 @@ if (userAge < 18) {
 }
 
 // Step 5 - Order confirmation
-// Your code goes here
+const isConfirmed = confirm(
+  `So your order is ${subtypeName} ${foodName}. Do you want to confirm your order?`,
+);
+
+if (isConfirmed) {
+  alert(
+    `Thank you for your order, ${userName}. Your ${subtypeName} ${foodName} is on the way! Enjoy your meal!`,
+  );
+} else {
+  alert(
+    `No worries, ${userName}. You can start your order again if you change your mind! Have a great day!`,
+  );
+}
